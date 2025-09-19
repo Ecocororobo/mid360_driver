@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shunsei/ws_colon/install/segmented_pointcloud_filter/include/**",
+        "/home/shunsei/ws_colon/install/pointcloud_to_costmap/include/**",
+        "/home/shunsei/ws_colon/install/ndt_omp_ros2/include/**",
+        "/home/shunsei/ws_colon/install/micro_ros_agent/include/**",
+        "/home/shunsei/ws_colon/install/micro_ros_msgs/include/**",
+        "/home/shunsei/ws_colon/install/mediapipe_msgs/include/**",
+        "/home/shunsei/ws_colon/install/livox_ros_driver2/include/**",
+        "/home/shunsei/ws_colon/install/ldlidar_component/include/**",
+        "/home/shunsei/ws_colon/install/laserscan_to_pointcloud/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/shunsei/ws_colon/src/Lakibeam_ROS2_Driver/include/**",
+        "/home/shunsei/ws_colon/src/initialpose_estimater/include/**",
+        "/home/shunsei/ws_colon/src/jaea_amr_ros2/include/**",
+        "/home/shunsei/ws_colon/src/laserscan_to_pointcloud/include/**",
+        "/home/shunsei/ws_colon/src/ldrobot-lidar-ros2/ldlidar_component/include/**",
+        "/home/shunsei/ws_colon/src/lidar_localization_ros2/include/**",
+        "/home/shunsei/ws_colon/src/mediapipe_msgs/include/**",
+        "/home/shunsei/ws_colon/src/micro-ROS-Agent/micro_ros_agent/include/**",
+        "/home/shunsei/ws_colon/src/mid360_driver/include/**",
+        "/home/shunsei/ws_colon/src/ndt_localizer/include/**",
+        "/home/shunsei/ws_colon/src/ndt_omp_ros2/include/**",
+        "/home/shunsei/ws_colon/src/pointcloud_merger/include/**",
+        "/home/shunsei/ws_colon/src/pointcloud_to_costmap/include/**",
+        "/home/shunsei/ws_colon/src/ros2_ipcamera/include/**",
+        "/home/shunsei/ws_colon/src/segmented_pointcloud_filter/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
